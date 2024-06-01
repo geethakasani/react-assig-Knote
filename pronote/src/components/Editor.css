@@ -51,12 +51,14 @@
     position: absolute;
     bottom: 10px;
     right: 10px;
+    padding: 2px 5px;
     border: none;
+    border-radius: 5px;
     cursor: pointer;
     font-size: 12px;
     width: 20px; 
     height: 20px;
-    background-color: #2c74d9;
+     background-color: #2c74d9;
 }
 .refresh-button img {
     width: 100%;
